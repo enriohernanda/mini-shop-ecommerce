@@ -37,4 +37,4 @@ Features product listing, search & filter, cart, and checkout with localStorage.
 
 1. Clone the repo:  
 ```bash
-git clone [https://github.com/yourusername/mini-shop-ecommerce.git](https://github.com/enriohernanda/mini-shop-ecommerce.git)
+git clone https://github.com/enriohernanda/mini-shop-ecommerce.git
